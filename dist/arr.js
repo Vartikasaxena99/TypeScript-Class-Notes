@@ -1,0 +1,10 @@
+"use strict";
+let arr1 = [1, 2, 3, 4, 5];
+arr1.push(11);
+console.log(arr1);
+let arr2 = [];
+arr2[0] = "vartika";
+arr2[1] = "vartika";
+arr2[2] = "vartika";
+arr2[3] = "vartika";
+console.log(arr2);
